@@ -16,16 +16,14 @@
 </p>
 
 ### Hi there 👋, my name is Yasin
-![](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/117518628/original/82f6eb178e08c30c6a3cfd48dd1989239461dd29/php-full-stack-developer.jpg)
-
  I'm Yasin,ı'am software developer. ı'am interested coding since 2017.
 
 Skills: PHP/ Java / JS / HTML / CSS
 
 - 🌱 I’m currently learning Java, Laravel, PHP-Codeigniter 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin65ozbek&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasin65ozbek&show_icons=true&count_private=true&theme=great-gatsby)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin65ozbek&theme=great-gatsby&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasin65ozbek&show_icons=true&count_private=true&theme=great-gatsby&line_height=27&hide_border=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yasin65ozbek)  
 
