@@ -19,5 +19,8 @@
 <p align="center">
 • <a href="https://truvaasoft.com/" rel="nofollow">Truvaasoft</a>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yasin65ozbek)](https://github.com/yasin65ozbek/github-readme-stats)
+
 </article>
   </div>
