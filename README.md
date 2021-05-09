@@ -14,7 +14,7 @@
 ### Hi there 👋, my name is Yasin
  I'm Yasin,ı'am software developer. ı'am interested coding since 2017.
 
-Skills: PHP/ Java / JS / HTML / CSS
+Skills: PHP/ Java / JS / HTML / CSS / Blender / Sketchup / Unity / Photoshop
 
 - 🌱 I’m currently learning Java, Laravel, PHP-Codeigniter 
 
