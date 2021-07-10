@@ -18,9 +18,9 @@ Skills: PHP/ Java / JS / HTML / CSS / Blender / Sketchup / Lumion Pro / Unity / 
 
 - 🌱 I’m currently learning Java, Laravel, PHP-Codeigniter 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasin65ozbek&show_icons=true&count_private=true&theme=great-gatsby&line_height=27&hide_border=true&disable_animations=false&)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin65ozbek&theme=great-gatsby&hide_border=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats) 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yasin65ozbek&)  ![Profile views](https://gpvc.arturio.dev/yasin65ozbek)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yasinozbekk&show_icons=true&count_private=true&theme=great-gatsby&line_height=27&hide_border=true&disable_animations=false&)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinozbekk&theme=great-gatsby&hide_border=true&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats) 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yasinozbekk&)  ![Profile views](https://gpvc.arturio.dev/yasinozbekk)  
 
 
 
